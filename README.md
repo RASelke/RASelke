@@ -1,5 +1,5 @@
 ## Hello! I am Renan Augusto SELKE 🤙
-I study Science of Computer and I'm starting now in this programming's world!
+I study Science Computer and I'm starting now in this programming's world!
 
 
 ## Analytics
